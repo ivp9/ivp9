@@ -23,6 +23,8 @@ I tried myself in various fields and based on this experience decided to focus o
 ## Other skills
 - Knowledge of automatic testing
 - English (intermediate level)
+- know how to plan and prioritize my work
+- use convincing arguments in communication and respond constructively to criticism
 - a positive person who is able to quickly become part of any team😊
 
 <!--
