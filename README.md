@@ -21,7 +21,7 @@ I tried myself in various fields and based on this experience decided to focus o
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ## Other skills
-- Knowledge of automatic testing.
+- Knowledge of automatic testing
 - English (intermediate level)
 - a positive person who is able to quickly become part of any team😊
 
