@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 My education:
 - Peter the Great Saint Petersburg Polytechnic University (SPBPU), electric power and electrical engineering engineer
 - Hexlet, profession "Frontend-developer"
