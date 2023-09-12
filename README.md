@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My education:
+- Peter the Great Saint Petersburg Polytechnic University (SPBPU), electric power and electrical engineering engineer
+- Hexlet, profession "Frontend-developer"
 <!--
 **ivp9/ivp9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
