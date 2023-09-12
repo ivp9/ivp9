@@ -13,7 +13,7 @@ I tried myself in various fields and based on this experience decided to focus o
 ## Other skills
 - Knowledge of automatic testing.
 - English (intermediate level)
-- a positive person who is able to quickly become part of any team:)
+- a positive person who is able to quickly become part of any team😊
 
 <!--
 **ivp9/ivp9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
