@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I tried myself in various fields and based on this experience decided to build a career as a frontend developer. I have a good mathematical background and completed courses from Hexlet. At the moment I am looking for a project/job to demonstrate my current knowledge and grow as a strong specialist.
+I tried myself in various fields and based on this experience decided to build a career as a frontend developer. I have a good mathematical background and completed courses from Hexlet. At the moment I am looking for a project/job to demonstrate my current knowledge and grow as a specialist.
 
 ## My education
 - Peter the Great Saint Petersburg Polytechnic University (SPBPU), electric power and electrical engineering engineer
