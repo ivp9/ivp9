@@ -19,7 +19,6 @@ I tried myself in various fields and based on this experience decided to build a
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ## Other skills
-- Knowledge of automatic testing
 - English (intermediate level)
 - know how to plan and prioritize my work
 - using convincing arguments in communication and respond constructively to criticism
